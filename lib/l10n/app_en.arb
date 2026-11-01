@@ -1,0 +1,120 @@
+{
+  "@@locale": "en",
+  "appTitle": "One Thing",
+  "navToday": "Today",
+  "navSomeday": "Someday",
+  "navSettings": "Settings",
+  "todayTitle": "Today",
+  "todaySlotsOccupied": "{count} of 3 slots taken",
+  "@todaySlotsOccupied": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "todayCompleted": "Completed: {done} of {total}",
+  "@todayCompleted": {
+    "placeholders": {
+      "done": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+  "emptySlotHint": "Space for one task",
+  "emptySlotHintSecondary": "You can leave it empty",
+  "addTaskTitle": "One more important thing",
+  "addTaskSubtitle": "This task will take the last, third slot for today.",
+  "addTaskFieldHint": "What would you like to do?",
+  "addTaskHelper": "A small, clear step is already a good task.",
+  "saveButton": "Save",
+  "limitBadge": "3 of 3 taken",
+  "limitDialogTitle": "Enough for today",
+  "limitDialogBody": "Three tasks are already chosen. You can postpone the new one or swap it for one of them.",
+  "limitDialogPostpone": "Postpone to Someday",
+  "limitDialogReplace": "Replace one of the three",
+  "addTaskButton": "Add task",
+  "footerSummaryLink": "Wrap up the day →",
+  "footerAllImportant": "Everything important is already here",
+  "somedayTitle": "Someday",
+  "somedaySubtitle": "Ideas can wait here. No deadlines, no obligations.",
+  "somedayFullBanner": "All 3 slots for today are taken. To take a task, you need to pick one of the three to replace.",
+  "somedayEmpty": "Nothing here yet. Postponed tasks will show up here.",
+  "somedayTakeToToday": "Take for today →",
+  "somedayNoFourth": "A fourth task will never appear in a day.",
+  "somedayDelete": "Delete",
+  "somedayDeleteTask": "Delete task",
+  "somedayTaken": "“{title}” — taken for today",
+  "@somedayTaken": {
+    "placeholders": {
+      "title": { "type": "String" }
+    }
+  },
+  "somedayFullSnackbar": "All 3 slots for today are already taken",
+  "replacePickerTitle": "What should go to “Someday”?",
+  "replacePickerSubtitle": "“{title}” will take its place today.",
+  "@replacePickerSubtitle": {
+    "placeholders": {
+      "title": { "type": "String" }
+    }
+  },
+  "summaryTitle": "Today",
+  "summaryDateTitle": "Summary · {date}",
+  "@summaryDateTitle": {
+    "placeholders": {
+      "date": { "type": "String" }
+    }
+  },
+  "summaryDoneCount": "{count} of 3 done",
+  "@summaryDoneCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "summaryGreatJob": "Great work.",
+  "summaryNoTasks": "There were no tasks for today.",
+  "summarySectionTitle": "What shall we do with the rest?",
+  "summaryNotEverything": "Not everything has to be done in one day.",
+  "summaryDoneButton": "Done",
+  "summaryFinalizedTitle": "Day wrapped up",
+  "summaryFinalizedBody": "Only the chosen tasks await tomorrow.",
+  "summaryTomorrow": "Tomorrow",
+  "summaryToSomeday": "Someday",
+  "settingsTitle": "Settings",
+  "settingsEveningSection": "Evening reminder",
+  "settingsSummaryAt": "Wrap up at {time}",
+  "@settingsSummaryAt": {
+    "placeholders": {
+      "time": { "type": "String" }
+    }
+  },
+  "settingsReminderTime": "Reminder time",
+  "settingsEveningDescription": "One quiet reminder a day. No repeated notifications.",
+  "settingsIfTaskRemains": "If a task remains",
+  "settingsAskBehavior": "Ask in the day summary",
+  "settingsAskBehaviorDescription": "Don't move automatically",
+  "settingsTomorrowBehavior": "Move to tomorrow",
+  "settingsTomorrowBehaviorDescription": "Unfinished tasks wait until tomorrow",
+  "settingsThemeSection": "Theme",
+  "settingsThemeLight": "Light",
+  "settingsThemeDark": "Dark",
+  "settingsThemeSystem": "System",
+  "settingsVersion": "One Thing — Version 1.0",
+  "settingsTagline": "Fewer tasks. More attention.",
+  "notificationTitle": "Time to wrap up",
+  "notificationBody": "How did your three main tasks go today?",
+  "semanticsToggleDone": "Mark as completed",
+  "semanticsToggleUndone": "Unmark completion",
+  "semanticsTask": "Task: {title}",
+  "@semanticsTask": {
+    "placeholders": {
+      "title": { "type": "String" }
+    }
+  },
+  "semanticsClose": "Close",
+  "semanticsAddTask": "Add task",
+  "semanticsThemeOption": "Theme: {name}",
+  "@semanticsThemeOption": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "fieldPlaceholder": "Walk without the phone"
+}

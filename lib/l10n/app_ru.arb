@@ -1,0 +1,120 @@
+{
+  "@@locale": "ru",
+  "appTitle": "One Thing",
+  "navToday": "Сегодня",
+  "navSomeday": "Когда-нибудь",
+  "navSettings": "Настройки",
+  "todayTitle": "Сегодня",
+  "todaySlotsOccupied": "{count} из 3 слотов занято",
+  "@todaySlotsOccupied": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "todayCompleted": "Выполнено: {done} из {total}",
+  "@todayCompleted": {
+    "placeholders": {
+      "done": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+  "emptySlotHint": "Место для одной задачи",
+  "emptySlotHintSecondary": "Можно оставить пустым",
+  "addTaskTitle": "Ещё одно важное дело",
+  "addTaskSubtitle": "Эта задача займёт последний, третий слот на сегодня.",
+  "addTaskFieldHint": "Что хочется сделать?",
+  "addTaskHelper": "Небольшой и понятный шаг — уже хорошая задача.",
+  "saveButton": "Сохранить",
+  "limitBadge": "3 из 3 занято",
+  "limitDialogTitle": "На сегодня достаточно",
+  "limitDialogBody": "Три задачи уже выбраны. Новую можно отложить или поставить вместо одной из них.",
+  "limitDialogPostpone": "Отложить в когда-нибудь",
+  "limitDialogReplace": "Заменить одну из трёх",
+  "addTaskButton": "Добавить задачу",
+  "footerSummaryLink": "Подвести итог →",
+  "footerAllImportant": "Всё важное уже здесь",
+  "somedayTitle": "Когда-нибудь",
+  "somedaySubtitle": "Здесь идеи могут подождать. Без сроков и обязательств.",
+  "somedayFullBanner": "Сегодня заняты все 3 слота. Чтобы взять задачу, нужно выбрать одну из трёх на замену.",
+  "somedayEmpty": "Пока пусто. Отложенные задачи появятся здесь.",
+  "somedayTakeToToday": "Взять на сегодня →",
+  "somedayNoFourth": "Чётвёртой задачи в дне не появится.",
+  "somedayDelete": "Удалить",
+  "somedayDeleteTask": "Удалить задачу",
+  "somedayTaken": "«{title}» — взята на сегодня",
+  "@somedayTaken": {
+    "placeholders": {
+      "title": { "type": "String" }
+    }
+  },
+  "somedayFullSnackbar": "Сегодня уже заняты все 3 слота",
+  "replacePickerTitle": "Что отправить в «когда-нибудь»?",
+  "replacePickerSubtitle": "«{title}» займёт её место на сегодня.",
+  "@replacePickerSubtitle": {
+    "placeholders": {
+      "title": { "type": "String" }
+    }
+  },
+  "summaryTitle": "Сегодня",
+  "summaryDateTitle": "Итог · {date}",
+  "@summaryDateTitle": {
+    "placeholders": {
+      "date": { "type": "String" }
+    }
+  },
+  "summaryDoneCount": "{count} из 3 сделано",
+  "@summaryDoneCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "summaryGreatJob": "Отличная работа.",
+  "summaryNoTasks": "На сегодня задач не было.",
+  "summarySectionTitle": "Что сделаем с оставшимся?",
+  "summaryNotEverything": "Не всё нужно успеть за один день.",
+  "summaryDoneButton": "Готово",
+  "summaryFinalizedTitle": "Итог подведён",
+  "summaryFinalizedBody": "Завтра ждут только выбранные задачи.",
+  "summaryTomorrow": "На завтра",
+  "summaryToSomeday": "В когда-нибудь",
+  "settingsTitle": "Настройки",
+  "settingsEveningSection": "Вечернее напоминание",
+  "settingsSummaryAt": "Подвести итог {time}",
+  "@settingsSummaryAt": {
+    "placeholders": {
+      "time": { "type": "String" }
+    }
+  },
+  "settingsReminderTime": "Время напоминания",
+  "settingsEveningDescription": "Одно тихое напоминание в день. Без серии повторных уведомлений.",
+  "settingsIfTaskRemains": "Если задача осталась",
+  "settingsAskBehavior": "Спрашивать в итоге дня",
+  "settingsAskBehaviorDescription": "Не переносить автоматически",
+  "settingsTomorrowBehavior": "Перенести на завтра",
+  "settingsTomorrowBehaviorDescription": "Несделанные задачи ждут завтра",
+  "settingsThemeSection": "Тема",
+  "settingsThemeLight": "Светлая",
+  "settingsThemeDark": "Тёмная",
+  "settingsThemeSystem": "Системная",
+  "settingsVersion": "One Thing — Версия 1.0",
+  "settingsTagline": "Меньше задач. Больше внимания.",
+  "notificationTitle": "Пора подвести итог",
+  "notificationBody": "Как прошли три главные задачи дня?",
+  "semanticsToggleDone": "Отметить выполненной",
+  "semanticsToggleUndone": "Отменить выполнение",
+  "semanticsTask": "Задача: {title}",
+  "@semanticsTask": {
+    "placeholders": {
+      "title": { "type": "String" }
+    }
+  },
+  "semanticsClose": "Закрыть",
+  "semanticsAddTask": "Добавить задачу",
+  "semanticsThemeOption": "Тема: {name}",
+  "@semanticsThemeOption": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "fieldPlaceholder": "Прогуляться без телефона"
+}
